@@ -1,5 +1,4 @@
 {
-  "framework": "nextjs",
   "installCommand": "npm install",
   "buildCommand": "npm run build -w @taxotools/database && npm run build -w @taxotools/shared && npm run build -w @taxotools/integrations && npm run build -w @taxotools/web"
 }
